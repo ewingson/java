@@ -1,7 +1,7 @@
 import jcurses.system.InputChar;
 import jcurses.system.Toolkit;
 
-//(works best when run through screen)
+//(works best on venus.wood.local when run through screen)
 public class readchar3 {
 	public static void main (String[] args)
 		{
