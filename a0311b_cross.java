@@ -205,7 +205,7 @@ class a0311b_cross {
 			// hv * vh 1,2,5,6
 			case 1: case 2: case 5: case 6:
 				{
-				//no content neccessary by purpose
+				//no content necessary by purpose
 				break;
 				}
 			// | * x 3,4
